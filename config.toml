@@ -1,0 +1,13 @@
+baseURL = "https://norway.gamedev.fyi/"
+languageCode = "en-us"
+title = "NorwayGameDev FYI"
+theme = "gamedev-fyi-theme"
+googleAnalytics = "UA-60001962-9"
+
+[Params]
+  description = "A resource for all game development related things in Norway."
+  twitter = "https://twitter.com/GameDevFYI"
+  email = "admin@gamedev.fyi"
+  keywords = "Game, GameDev, Norway"
+  dateFormat = "January 2, 2006"
+  author = "Goose Ninja"
