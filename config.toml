@@ -1,6 +1,6 @@
 baseURL = "https://norway.gamedev.fyi/"
 languageCode = "en-us"
-title = "NorwayGameDev FYI"
+title = "Norway GameDev FYI"
 theme = "gamedev-fyi-theme"
 googleAnalytics = "UA-60001962-9"
 
